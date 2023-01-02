@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi there , my name is Furqat</h1>
 
-<h3 align="center"> and i am .NET Software Engineer from Uzbekistan</h3>
+<h3 align="center"> and i am a Software Engineer from Uzbekistan</h3>
 
 - 🔭 I’m currently working on [Uz Card Payment System]([(https://uzcard.uz/ru)])
 
