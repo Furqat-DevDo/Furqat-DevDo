@@ -15,6 +15,8 @@ I love my job and software industry, i am so excited to learn new technologies a
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/furqat-abduvosiqov-719386219/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Furqat | LinkedIn" width="21px"/></a>
+<a href="https://furqata93@gmail.com">
+ <img align="left" src="https://th.bing.com/th/id/OIP.XcLork1LXnWFXAg4t_xk6QHaHZ?pid=ImgDet&rs=1" alt="Furqat | Mail" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
@@ -43,8 +45,6 @@ I love my job and software industry, i am so excited to learn new technologies a
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📈 GitHub Stats 
+[![Furqat's github status](https://github-readme-stats.vercel.app/api?username=Furqat-DevDo)](https://github.com/Furqat-DevDo)
 
-[![Yu's github stats](https://github-readme-stats.vercel.app/api?username=Furqat-DevDo)](https://github.com/Furqat-DevDo)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Furqat-DevDo)](https://github.com/Furqat-DevDo)
    
