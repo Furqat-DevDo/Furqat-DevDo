@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="(https://www.linkedin.com/in/furqat-abduvosiqov-719386219/)" target="_blank" rel="noreferrer">Furqat</a> 👋
+Hi there, I'm <a href="https://www.linkedin.com/in/furqat-abduvosiqov-719386219/" target="_blank" rel="noreferrer">Furqat</a> 👋
 </h3>
 
 <h2 align="center">
@@ -35,14 +35,10 @@ I love my job and software industry, i am so excited to learn new technologies a
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-</br>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Dotnet](https://img.shields.io/badge/dotnet-%23430098.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%23007ACC.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Csharp](https://img.shields.io/badge/csharp-%23563D7C.svg?style=for-the-badge&logo=csharp&logoColor=white)
-</br>
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
