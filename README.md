@@ -1,5 +1,5 @@
 <p align="center">
- 
+ <img align="center" src="" alt="Furqat | Mail" width="21px"/></a>
 </p>
 
 <h3 align="center">
@@ -16,7 +16,7 @@ I love my job and software industry, i am so excited to learn new technologies a
 
 <a href="https://www.linkedin.com/in/furqat-abduvosiqov-719386219/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Furqat | LinkedIn" width="21px"/></a>
 <a href="https://furqata93@gmail.com">
- <img align="left" src="https://th.bing.com/th/id/OIP.XcLork1LXnWFXAg4t_xk6QHaHZ?pid=ImgDet&rs=1" alt="Furqat | Mail" width="21px"/></a>
+ <img align="left" src="https://avatars3.githubusercontent.com/u/7669734?s=400&u=195dffee765519c3a1aa6f1426a734e2cb0e7394&v=4" alt="Furqat | Mail" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
