@@ -1,5 +1,5 @@
 <p align="center">
- <img align="center" src="https://avatars3.githubusercontent.com/u/7669734?s=400&u=195dffee765519c3a1aa6f1426a734e2cb0e7394&v=4" alt="avatar"/></a>
+ <img align="center" src="https://avatars3.githubusercontent.com/u/7669734?s=400&u=195dffee765519c3a1aa6f1426a734e2cb0e7394&v=4" width="200" height="200"alt="avatar"/></a>
 </p>
 
 <h3 align="center">
