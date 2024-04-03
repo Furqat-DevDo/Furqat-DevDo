@@ -25,6 +25,7 @@ I love my job and software industry, i am so excited to learn new technologies a
 - .NET project
 - MarketPlace project
 - Billing and payment system project
+- Scoring project.
 
 ## 🌱 I'm currently learning
 
