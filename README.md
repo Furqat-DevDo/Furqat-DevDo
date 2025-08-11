@@ -31,7 +31,8 @@ I love my job and software industry, i am so excited to learn new technologies a
 
 - .NET
 - Software Architecture.
-- Cloud Services.
+- Design Patterns
+- Angular And TypeScript
 
 ## 💼 Technical Skills
 
